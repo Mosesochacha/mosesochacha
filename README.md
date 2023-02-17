@@ -1,4 +1,4 @@
-<img src="https://media.gettyimages.com/id/1160205207/vector/web-design-and-development-banner-template-with-line-icons-modern-vector-illustration-for.jpg?s=1024x1024&w=gi&k=20&c=_LDT9zzkAAMxpHBB5vtlOK2LP6Wn4FHhBr4d1U2UeMw=" alt="" >
+<img height= "200px" width = "900px" src="https://media.gettyimages.com/id/1160205207/vector/web-design-and-development-banner-template-with-line-icons-modern-vector-illustration-for.jpg?s=1024x1024&w=gi&k=20&c=_LDT9zzkAAMxpHBB5vtlOK2LP6Wn4FHhBr4d1U2UeMw=" alt="" >
 <h1 align="center">Hi 👋, I'm Moses Ochacha</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 <img width="400px" align="center" src="https://e0.pxfuel.com/wallpapers/320/347/desktop-wallpaper-rog-design-computer-animated-for-pc-cool-pixel-art-pixel-art-gaming.jpg">
