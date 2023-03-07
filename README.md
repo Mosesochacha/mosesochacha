@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesochacha" alt="mosesochacha" /></a> </p>
 
-- 🔭 I’m currently working on [petflix project](https://project-petflix.vercel.app/)
+- 🔭 I’m currently working on [petflix project](https://pet-finder-nine.vercel.app/)
 
 - 🌱 I’m currently learning **Ruby and Rails**
 
