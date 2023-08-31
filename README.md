@@ -2,7 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesochacha&label=Profile%20views&color=0e75b6&style=flat" alt="mosesochacha" /> </p>
 
 <h1 align="center">Hi 👋, I'm Moses Ochacha</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">Aspiring full-stack developer seeking
+opportunities to leverage my technical
+expertise for innovative solutions,
+fostering organizational growth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosesochacha&label=Profile%20views&color=0e75b6&style=flat" alt="mosesochacha" /> </p>
 
