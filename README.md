@@ -13,11 +13,9 @@ fostering organizational growth</h3>
 
 - 🔭 I’m currently working on [petflix project](https://pet-finder-nine.vercel.app/)
 
-- 🌱 I’m currently learning **Ruby and Rails**
+- 🌱 I’m currently doing *Freelancing**
 
-- 🔭 I’m currently working on [Inshort news](https://inshort-news.vercel.app/)
-
-- 💬 Ask me about **react ,js , html**
+- 💬 Ask me about **Rectjs, Javascript, HTML. CSS, Bootstrap, Tailwind, Ruby On Rails**
 
 - 📫 How to reach me **ochachamoses443@gmail.com**
 
