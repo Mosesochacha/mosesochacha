@@ -12,7 +12,7 @@ fostering organizational growth</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosesochacha" alt="mosesochacha" /></a> </p>
 
 
-- 🌱 I’m currently doing *Freelancing**
+- 🌱 I’m currently doing *Learnin vue.js**
 
 - 💬 Ask me about **Rectjs, Javascript, HTML. CSS, Bootstrap, Tailwind, Ruby On Rails**
 
