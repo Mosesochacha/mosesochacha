@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/Kj6GMmgt/Green-And-Dark-Green-Modern-Business-Linked-In-Banner-1.jpg"  />
+<div align="">
+  <img height="400" src="https://i.postimg.cc/Kj6GMmgt/Green-And-Dark-Green-Modern-Business-Linked-In-Banner-1.jpg"  />
 </div>
 
 ###
